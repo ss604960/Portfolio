@@ -2,6 +2,17 @@ html {
     background-color: black;
     color: #ccff99;
     
+    
+}
+
+a {
+    color: lightgrey;
+    
+}
+
+a:hover {
+    color: orange;
+    
 }
 
 .home {
