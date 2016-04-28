@@ -1,0 +1,255 @@
+html {
+    background-color: black;
+    color: #ccff99;
+    
+}
+
+.home {
+ font-family: 'Rock Salt', cursive;
+ font-size: 1em;
+}
+
+
+.me {
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding-left: 11em;
+    
+    
+}
+
+
+.mainheader{ 
+  font-family: 'Rock Salt', cursive;
+  font-size: 3.5em;
+  padding-left: 3em;
+   margin-bottom: .5em;
+    
+}
+
+
+
+.header {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em; 
+  position: relative;
+  width: 800px;
+  height: 100px;
+  overflow: hidden;
+  font-family: 'Rock Salt', cursive;
+  font-size: 3em;
+ 
+}
+
+
+
+
+.paragraph {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  float: left;
+  width: 600px;
+  height: 187px;
+  overflow: hidden;
+  font-family: 'Patua One', cursive;
+  padding-left: 2em;
+  
+}
+
+.pages { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    font-family: 'Rock Salt', cursive;
+    font-size: 1em;
+    float: left;
+    padding-left: 10em;
+
+
+}
+
+/*container one*/
+
+.container {
+  width: 1120px;
+  margin: 0 auto 50px auto;
+  padding-left: 8em;
+  padding-bottom: 2em;
+  
+}
+
+.container ul {
+  list-style-type: none;
+}
+ 
+
+.container li {
+  float:left;
+  position: relative;
+  width: 420px;
+  height: 280px;
+  overflow: hidden;
+}
+ 
+.container li:hover {
+  cursor: pointer;
+}
+
+
+.container img {
+  width: 420px;
+  height: 300px;
+  margin: .5em
+}
+ 
+.container li:hover img {
+  width: 420px;
+  height: 313px;
+    
+}
+
+
+
+/*container two*/
+
+.containertwo {
+  width: 1120px;
+  margin: 0 auto 50px auto;
+  padding-left: 8em;
+  margin-bottom: 2em;
+  
+}
+
+.containertwo ul {
+  list-style-type: none;
+}
+ 
+
+.containertwo li {
+  float:left;
+  position: relative;
+  width: 287px;
+  height: 380px;
+  overflow: hidden;
+}
+ 
+.containertwo li:hover {
+  cursor: pointer;
+}
+
+
+.containertwo img {
+  width: 300px;
+  height: 400px;
+  margin: .5em
+}
+ 
+.containertwo li:hover img {
+  width: 313px;
+  height: 420px;
+    
+}
+
+/*container three*/
+
+.containerthree {
+  width: 1100px;
+  margin: 0 auto 50px auto;
+  padding-left: 8em;
+  margin-bottom: 2em;
+  
+}
+
+.containerthree ul {
+  list-style-type: none;
+}
+ 
+
+.containerthree li {
+  float:left;
+  position: relative;
+  width: 300px;
+  height: 420px;
+  overflow: hidden;
+}
+ 
+.containerthree li:hover {
+  cursor: pointer;
+}
+
+
+.containerthree img {
+  width: 300px;
+  height: 420px;
+  margin: .5em
+}
+ 
+.containerthree li:hover img {
+  width: 313px;
+  height: 440px;
+    
+}
+
+
+/*container four*/
+
+.containerfour {
+  width: 1100px;
+  margin: 0 auto 50px auto;
+  padding-left: 8em;
+  margin-bottom: 2em;
+  
+}
+
+.containerfour ul {
+  list-style-type: none;
+}
+ 
+
+.containerfour li {
+  float:left;
+  position: relative;
+  width: 300px;
+  height: 420px;
+  overflow: hidden;
+}
+ 
+.containerfour li:hover {
+  cursor: pointer;
+}
+
+
+.containerfour img {
+  width: 300px;
+  height: 420px;
+  margin: .5em
+}
+ 
+.containerfour li:hover img {
+  width: 313px;
+  height: 440px;
+    
+}
+
+
+
+
+
+.description {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  position: relative;
+  width: 600px;
+  height: 50px;
+  overflow: hidden;
+  font-family: 'Patua One', cursive;
+    
+    
+}
+    
+
